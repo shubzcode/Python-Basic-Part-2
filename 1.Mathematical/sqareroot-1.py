@@ -1,5 +1,5 @@
 def square_root(number):
   import math
   return math.sqrt(number)
-#A
+#already define square root 
 print(square_root(16))
