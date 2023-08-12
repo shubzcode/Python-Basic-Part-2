@@ -5,7 +5,7 @@ def count_occurrences(string, char):
         if c == char:
             count += 1
     return count
-
+#using user inpute any character 
 input_string = input("Enter a string: ")
 search_char = input("Enter a character to count: ")
 
